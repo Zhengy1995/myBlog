@@ -1,2 +1,2 @@
-### 仓库说明
-本仓库为本人博客，记录本人代码历程积累，主要更新内容为本人接触的前端技术栈（html、javascript、css、vue、react等）、后端技术栈（nodejs、springboot、mybatis、mongodb、ssm、mysql、oracle等），不定时更新内容，查看博客内容请移驾至issues，欢迎收藏并提意见，码字辛苦，有空的可以顺手点个赞啦~
+### 浠撳簱璇存槑
+鏈粨搴撲负鏈汉鍗氬锛岃褰曟湰浜轰唬鐮佸巻绋嬬Н绱紝涓昏鏇存柊鍐呭涓烘湰浜烘帴瑙︾殑鍓嶇鎶�鏈爤锛坔tml銆乯avascript銆乧ss銆乿ue銆乺eact绛夛級銆佸悗绔妧鏈爤锛坣odejs銆乻pringboot銆乵ybatis銆乵ongodb銆乻sm銆乵ysql銆乷racle绛夛級锛屼笉瀹氭椂鏇存柊鍐呭锛屾煡鐪嬪崥瀹㈠唴瀹硅绉婚┚鑷砙issues](https://github.com/Zhengy1995/myBlog/issues)锛屾杩庢敹钘忓苟鎻愭剰瑙侊紝鐮佸瓧杈涜嫤锛屾湁绌虹殑鍙互椤烘墜鐐逛釜璧炲暒~
